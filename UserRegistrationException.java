@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 public class UserRegistrationException extends Exception {
 	
-	/** enum which extends Enum class **/
+	// enum which extends Enum class 
 	enum type_of_exceptions {
 		INVALID_FIRST_NAME,
 		INVALID_LAST_NAME,
